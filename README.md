@@ -4,7 +4,7 @@
 Leila Janah, While talent is equally distributed, opportunity is not.
 
 
-You call Applie for [Applied Data Science Module](https://www.wqu.edu/programs/data-science/)
+You can apply [Applied Data Science Module](https://www.wqu.edu/programs/data-science/)
 
 **Applied Data Science I: Scientific Computing & Python**
 
